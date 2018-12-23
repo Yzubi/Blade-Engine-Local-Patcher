@@ -5,7 +5,7 @@ cd Blade-Engine-Local-Patcher
 git clone https://github.com/bladecoder/bladecoder-adventure-engine.git
 mkdir libs
 chmod -R 755 .
-./patchadventureditor.sh /bladecoder-adventure-engine
+./patchadventureditor.sh bladecoder-adventure-engine
 ./linklibsfolderany.sh bladecoder-adventure-engine/blade-engine/build ../../../libs
 
 git clone https://github.com/bladecoder/bladecoder-adventure-tests.git
