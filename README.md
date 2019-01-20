@@ -16,3 +16,7 @@ git clone https://github.com/bladecoder/bladecoder-adventure-tests.git
 ./linklibsfolderany.sh bladecoder-adventure-tests/adventure-test-spine ../../libs
 ./linklibsfolderany.sh bladecoder-adventure-tests/adventure-test-project ../../libs
 ```
+
+```
+git clone https://github.com/Yzubi/MyAdventureGame.git
+```
